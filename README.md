@@ -1,7 +1,7 @@
 # MERN-Boards
 ## Developed by Spencer W. Smith (spencerwayne310@gmail.com)
 
-A simple imageboard built using the MERN stack, originally developed as a new curriculum for RP4K.
+A simple imageboard built using the MERN stack, originally developed as a new curriculum for RP4K. This project does have a few issues that need to be fixed at some point when I have more time to come back to it, but is about 90% complete overall.
 
 ## How to use
 
