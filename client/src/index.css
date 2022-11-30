@@ -1,0 +1,47 @@
+body {
+    background-color: black;
+    color: green;
+}
+
+.form-control {
+    border-color: green;
+    background-color: black;
+    color: green;
+}
+
+.form-control:focus {
+    border-color: magenta;
+    background-color: black;
+    color: green;
+}
+
+.btn-primary {
+    background: radial-gradient(#007b00, #00aa00);
+    border-color: magenta;
+    color: black;
+}
+
+.btn-primary:hover {
+    background: radial-gradient(#00aa00, #00ff00);
+    border-color: magenta;
+    color: black;
+}
+
+.btn-link {
+    color: #7b007b;
+}
+
+.btn-link:hover {
+    color: magenta;
+}
+
+.comment {
+    border: 1px solid magenta;
+    border-radius: 0.5em;
+    margin: 1em;
+    padding: 0.5em;
+}
+
+.table {
+    color: green;
+}
